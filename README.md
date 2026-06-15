@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=Hi%20there%20👋%20I'm%20Yeji%20Tak%20%20&height=100&fontSize=38&fontColor=ffffff&fontAlign=28&fontAlignY=46&desc=Game%20Client%20programer🎮&descSize=20&descAlign=18&descAlignY=86)
+## **Game Client programer🎮**
+---
 
 ## 🎯 About Me
 * **Education & Activity**
   * 🏅 **42Seoul** | 10th Member (2023.10 ~ 2024.10)
   * 🎮 **Jusin Game Academy** | DirectX 11 Game Developer Course Complete
 
----
 
 ## 🛠 Tech Stack
 
