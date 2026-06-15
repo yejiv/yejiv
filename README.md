@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=Hi%20there%20👋%30I'm%20Yeji%20Tak%20%20&height=100&fontSize=34&fontColor=ffffff&fontAlign=28&fontAlignY=50&desc=Game%20Client%20programer🎮&descSize=26&descAlign=10&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=Hi%20there%20👋%30I'm%20Yeji%20Tak%20%20&height=100&fontSize=38&fontColor=ffffff&fontAlign=28&fontAlignY=40&desc=Game%20Client%20programer🎮&descSize=26&descAlign=10&descAlignY=75)
 
 ## 🎯 About Me
 * **Education & Activity**
