@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Game%Client%Programmer🎮%20%20&height=100&fontSize=30&textBg=true&fontColor=ffffff&fontAlign=10)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Game%Client%Programmer🎮%20%20&height=100&fontSize=30&fontColor=ffffff&fontAlign=30)
 
 ## 🎯 About Me
 * **Education & Activity**
