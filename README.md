@@ -1,6 +1,9 @@
+
+### Game Client Programmer 🎮
+
 ## 🎯 About Me
 * **Education & Activity**
-  * <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/> | 10th Member (2023.10 ~ 2025.06)
+  * 🏅 **42Seoul** | 10th Member (2023.10 ~ 2024.10)
   * 🎮 **Jusin Game Academy** | DirectX 11 Game Developer Course Complete
 
 ---
