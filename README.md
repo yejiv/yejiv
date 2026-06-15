@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=Game%20Client%20Programmer🎮%20%20&height=100&fontSize=32&fontColor=ffffff&fontAlign=28&fontAlignY=60)
-
+# Hi there 👋 I'm Yeji Tak
+### Game Client programer
 ## 🎯 About Me
 * **Education & Activity**
   * 🏅 **42Seoul** | 10th Member (2023.10 ~ 2024.10)
