@@ -1,10 +1,10 @@
-## **Game Client programer🎮**
----
+# **Game Client programer🎮**
 
 ## 🎯 About Me
 * **Education & Activity**
   * 🏅 **42Seoul** | 10th Member (2023.10 ~ 2024.10)
   * 🎮 **Jusin Game Academy** | DirectX 11 Game Developer Course Complete
+---
 
 
 ## 🛠 Tech Stack
