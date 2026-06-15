@@ -1,14 +1,6 @@
-<p align="left">
-  <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Velog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&to=본인이메일@gmail.com"/>
-</p>
-
----
-
 ## 🎯 About Me
 * **Education & Activity**
-  * 🏅 **42Seoul** | 10th Member (2023.10 ~ 2025.06)
+  * <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/> | 10th Member (2023.10 ~ 2025.06)
   * 🎮 **Jusin Game Academy** | DirectX 11 Game Developer Course Complete
 
 ---
@@ -19,6 +11,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/>
 </p>
 
 ### Graphics & Engine
@@ -28,11 +21,18 @@
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
 </p>
 
-### Tools & Collaboration
+### IDE & Editors
 <p align="left">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-11F4FF?style=flat-square&logo=Xcode&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
+</p>
+
+### Management & Collaboration
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fork-0066CC?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </p>
