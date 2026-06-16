@@ -1,4 +1,4 @@
-# **Game Client programer🎮**
+# Game Client programer🎮
 
 ## 🎯 About Me
 * **Education & Activity**
